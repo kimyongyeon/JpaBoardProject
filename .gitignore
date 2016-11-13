@@ -1,11 +1,7 @@
 /.idea/artifacts
 /.gradle/2.13/taskArtifacts
 /.idea
-/build/classes/main
+/build
+/gradle
+
 JpaBoardProject
-example
-libs
-/build/resources/main/application.yml
-/build/tmp/war/MANIFEST.MF
-/gradle/wrapper/gradle-wrapper.jar
-/gradle/wrapper/gradle-wrapper.properties
